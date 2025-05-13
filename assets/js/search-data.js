@@ -47,8 +47,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2023-10-12/";
-            },},{id: "news-为了在xr领域进一步推动技术创新与知识共享-我撰写了-vr光学测量手册-一书-全书共分为9章-内容全面覆盖国际标准-测量设备-测量方法及实际案例-系统性地阐述了如何利用光学测量技术对增强现实-ar-虚拟现实-vr-和混合现实-mr-设备及其组件进行精准测量-本书旨在帮助公司内部团队-包括研发-销售-服务-以及合作伙伴深入理解xr技术-同时统一相关术语与技术认知-为行业发展提供有力支持-除实体书外-我将其核心内容同步发布在知乎专栏和csdn专栏",
-          title: '为了在XR领域进一步推动技术创新与知识共享，我撰写了《VR光学测量手册》一书。全书共分为9章，内容全面覆盖国际标准、测量设备、测量方法及实际案例，系统性地阐述了如何利用光学测量技术对增强现实（AR）、虚拟现实（VR）和混合现实（MR）设备及其组件进行精准测量。本书旨在帮助公司内部团队（包括研发、销售、服务）以及合作伙伴深入理解XR技术，同时统一相关术语与技术认知，为行业发展提供有力支持。除实体书外，我将其核心内容同步发布在知乎专栏和CSDN专栏。',
+            },},{id: "news-我的新书-vr光学测量手册-分为九个章节-全面涵盖了国际标准-测量设备-测量方法以及实际案例研究-书中系统地讲解了如何利用光学测量技术精确测量增强现实-ar-虚拟现实-vr-和混合现实-mr-设备及其组件-本书旨在帮助感兴趣的人士更深入地理解xr技术-同时规范相关术语和技术知识-为行业发展提供有力支持-除实体书外-我将其核心内容同步发布在了github-知乎专栏和csdn专栏",
+          title: '我的新书《VR光学测量手册》分为九个章节，全面涵盖了国际标准、测量设备、测量方法以及实际案例研究。书中系统地讲解了如何利用光学测量技术精确测量增强现实（AR）、虚拟现实（VR）和混合现实（MR）设备及其组件。本书旨在帮助感兴趣的人士更深入地理解XR技术，同时规范相关术语和技术知识，为行业发展提供有力支持。除实体书外，我将其核心内容同步发布在了Github，知乎专栏和CSDN专栏。',
           description: "",
           section: "News",},{id: "news-i-was-honored-to-represent-instrument-systems-as-an-invited-speaker-at-the-2025-international-conference-on-display-technology-icdt-2025-where-i-presented-our-research-titled-measurement-of-near-eye-displays-using-a-goniophotometer-and-imaging-light-measurement-device",
           title: 'I was honored to represent Instrument Systems as an invited speaker at the...',
