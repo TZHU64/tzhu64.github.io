@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /Users/tianxing/Downloads/tzhu64.github-main/*.md)",
+      "Bash(bundle exec *)",
+      "Bash(bundle install *)",
+      "Bash(ruby --version)",
+      "Read(//opt/homebrew/opt/ruby/bin/**)",
+      "Read(//usr/local/opt/ruby/bin/**)",
+      "Read(//usr/local/bin/**)",
+      "Read(//opt/local/**)",
+      "Bash(brew install *)",
+      "Bash(ps -o pid,stat,etime,command -p 4695)",
+      "Bash(curl -sI https://github.com/RobertoJBeltran/jekyll-terser.git)",
+      "Bash(pkill -f \"bundle install\")",
+      "Bash(pkill -9 -f \"bundle install\")",
+      "Bash(pip3 install *)",
+      "Bash(pkill -f \"jekyll serve\")",
+      "Bash(pkill -9 -f \"jekyll serve\")",
+      "Bash(npm install *)",
+      "Bash(npx playwright *)",
+      "Read(//private/tmp/**)",
+      "Bash(node screenshot.js)",
+      "Bash(gem install *)",
+      "Bash(gem env *)",
+      "Bash(gh auth *)"
+    ]
+  }
+}

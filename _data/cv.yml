@@ -1,0 +1,96 @@
+- title: Basic Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Tianxing Zhu
+    - name: Email
+      value: tzhu64@outlook.com
+    - name: Url
+      value: https://tzhu64.github.io/
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Software Engineering (AI)
+      institution: Tongji University, Shanghai, China
+      year: 2020 - 2025
+
+    - title: M.S. in Mechanical Engineering
+      institution: Tsinghua University, Beijing, China
+      year: 2011 - 2014
+
+    - title: B.S. in Mechanical Engineering
+      institution: University of Toronto, Toronto, Canada
+      year: 2006 - 2010
+
+- title: Work
+  type: time_table
+  contents:
+    - title: Application Manager | AI Development Leader
+      institution: Instrument Systems, Konica Minolta (China) Investment Co., Ltd, Shanghai, China
+      year: 2023 - NOW
+      description:
+        - Spearheaded international collaboration programs, strategically integrating established technologies with solutions from emerging tech companies to drive innovative product development. 
+        - Forged strategic partnerships in the high-growth XR sectors, leading to knowledge exchange, application enhancement, and pioneering new product development. 
+        - Directed experimental AI projects, steering the integration of optics and AI in close collaboration with the R&D team to fuel continuous innovation.
+
+    - title: Senior Application Engineer
+      institution: Instrument Systems, Konica Minolta (China) Investment Co., Ltd, Shanghai, China
+      year: 2017 - 2023
+      description:
+        - Provided comprehensive application support for advanced optical measurement solutions to key accounts including Apple, Samsung, and BOE, resolving complex technical issues and conducting customized training to significantly boost product adoption. 
+        - Orchestrated the development of new application features by collaborating with cross-functional teams, resulting in streamlined processes and enhanced functionality.  
+        - Pioneered internal projects to automate application service workflows, leveraging advanced tools to improve efficiency and drive continuous process improvements. 
+
+    - title: Research Engineer
+      institution: Saint-Gobain Research (Shanghai) Co., Ltd, Shanghai, China
+      year: 2014 - 2017
+      description:
+        - Managed the end-to-end product development lifecycle, from concept to launch, ensuring strict adherence to product specifications and project deadlines. 
+        - Led a team of four to manage two major product upgrade projects for a key group company, Saint-Gobain Abrasives (Suzhou) Co., which contributed 40% of their revenue in 2016.
+        - Directed multiple foundational research projects on Saint-Gobain products, successfully driving their adoption across diverse business sectors within the Asian market.
+
+- title: Volunteer
+  type: time_table
+  contents:
+    - title: Co-founder
+      institution: Saint-Gobain Research Shanghai Volunteering Club, Shanghai, China
+      year: 2015 - 2016
+      description:
+        - I co-founded the Saint-Gobain Research Shanghai Volunteering Club, partnering with local NGOs and Saint-Gobain’s HR and CSR teams to organize weekend educational programs for migrant children in Shanghai. By mobilizing Saint-Gobain employees as volunteer teachers, we provided structured classes to support underserved youth.
+
+    - title: Project Coordinator
+      institution: LEAD Sunshine (NGO) , Bejing, China
+      year: 2011 - 2014
+      description:
+        - I designed and delivered weekend educational programs for migrant children in non-government schools, teaching English, Traditional Chinese Culture, Mathematics, Astronomy, and hands-on science experiments. I tailored the curriculum to students' needs, coordinated volunteer efforts, and ensured impactful learning experiences despite limited resources.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - title: Excellence Awards on 2025 Konica Minolta Group Global Improvement Competition
+          contents:
+            - CAVE (CALIBRATION VIA AUGMENTED VISUAL ENVIRONMENT)
+    - year: 2023
+      items:
+        - title: Two Excellence Awards on 2023 Konica Minolta Group Global Improvement Competition
+          contents:
+            - Local AI Enhanced Knowledge-Base Support Web System
+            - End-to-End Spectrometer Automatic Calibration
+    - year: 2020 -2024
+      items:
+        - Chinese Government Scholarship (Tongji University)
+    - year: 2011 -2014
+      items:
+        - Tsinghua - Beijing Scholarship
+    - year: 2006 -2010
+      items:
+        - University of Toronto Scholarship
+
+- title: Languages
+  type: nested_list
+  contents:
+    - title: Chinese (Mandarin) - Native speaker
+    - title: English - Fluent
