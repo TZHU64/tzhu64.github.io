@@ -3,94 +3,82 @@
   contents:
     - name: Full Name
       value: Tianxing Zhu
+    - name: Location
+      value: Shanghai, China
     - name: Email
       value: tzhu64@outlook.com
-    - name: Url
-      value: https://tzhu64.github.io/
+    - name: Phone
+      value: +86 18217600938
+    - name: Portfolio
+      value: https://tzhu64.github.io
+
+- title: Professional Summary
+  type: list
+  contents:
+    - "<b>Cross-Disciplinary Architect:</b> Ph.D. in AI with a strong foundation in Mechanical Engineering (M.S., B.S.). Bridges cutting-edge deep learning theory with physical hardware constraints to solve complex industrial bottlenecks."
+    - "<b>XR & AI Innovator:</b> Currently leading the algorithmic and optical fusion for next-generation XR metrology systems. Pioneering AI-driven architectures to accelerate hardware testing and validation for spatial computing devices."
+    - "<b>Optical Metrology Authority:</b> Nearly a decade defining and deploying high-precision optical measurement frameworks for global tech giants and leading display manufacturers, including Apple, Samsung, and BOE."
+    - "<b>Global Standard Setter:</b> Appointed Expert across dual International Committee for Display Metrology (ICDM) subcommittees (<em>Near-Eye-Display</em> and <em>Temporal Measurements</em>). Actively defining global spatial and temporal performance standards for the XR industry."
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Application Manager (Instrument Systems Division)
+      institution: Konica Minolta (China) Investment Co., Ltd., Shanghai, China
+      year: 2023 – Present
+      description:
+        - "<b>XR Metrology Architecture & Integration:</b> Spearheaded international technical collaborations, strategically integrating Instrument Systems' high-precision optical measurement technologies with emerging tech solutions to drive advanced testing product development."
+        - "<b>Strategic XR Partnerships:</b> Forged and led high-level technical partnerships within the high-growth spatial computing sector, driving knowledge exchange, application enhancement, and the pioneering of new XR testing workflows."
+        - "<b>Cross-Functional R&D Leadership:</b> Directed experimental R&D initiatives, steering the integration of complex software tools and advanced optics. Collaborated closely with core R&D teams to architect next-generation testing solutions and fuel continuous innovation."
+
+    - title: Senior Application Engineer (Instrument Systems Division)
+      institution: Konica Minolta (China) Investment Co., Ltd., Shanghai, China
+      year: 2017 – 2023
+      description:
+        - "<b>Enterprise Metrology Architecture:</b> Served as the principal technical authority providing comprehensive application support for Instrument Systems' advanced optical measurement solutions to global tech giants and leading display manufacturers (including Apple, Samsung, and BOE). Resolved complex technical bottlenecks and conducted customized training to significantly boost product adoption."
+        - "<b>Workflow Automation & Scaling:</b> Pioneered internal automation projects for application service workflows, utilizing advanced tools to eliminate manual bottlenecks, improve testing efficiency, and establish scalable operational standards."
+        - "<b>Feature Engineering & Lifecycle Delivery:</b> Orchestrated the end-to-end development of new optical measurement application features by collaborating seamlessly with cross-functional teams, resulting in streamlined processes and enhanced core hardware functionality."
+
+    - title: Research Engineer
+      institution: Saint-Gobain Research (Shanghai) Co., Ltd., Shanghai, China
+      year: 2014 – 2017
+      description:
+        - "<b>End-to-End R&D Lifecycle Management:</b> Directed the complete product development lifecycle for novel hardware solutions, guiding projects from foundational concept and material research through to industrialization and successful commercial launch."
+        - "<b>Cross-Functional Leadership & Commercial Impact:</b> Led a specialized, four-person R&D team to execute two major physical product upgrade initiatives for a key group division (Saint-Gobain Abrasives). Engineered solutions that ultimately accounted for 40% of the target division's revenue in 2016."
+        - "<b>Foundational Material & Mechanical Research:</b> Spearheaded multiple foundational research projects, translating rigorous technical specifications into tangible product features that accelerated adoption across diverse business sectors within the Asian market."
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Software Engineering (AI)
+    - title: Ph.D. in Software Engineering (AI)
       institution: Tongji University, Shanghai, China
-      year: 2020 - 2025
+      year: 2020 – 2025
 
     - title: M.S. in Mechanical Engineering
       institution: Tsinghua University, Beijing, China
-      year: 2011 - 2014
+      year: 2011 – 2014
 
     - title: B.S. in Mechanical Engineering
       institution: University of Toronto, Toronto, Canada
-      year: 2006 - 2010
+      year: 2006 – 2010
 
-- title: Work
-  type: time_table
-  contents:
-    - title: Application Manager | AI Development Leader
-      institution: Instrument Systems, Konica Minolta (China) Investment Co., Ltd, Shanghai, China
-      year: 2023 - NOW
-      description:
-        - Spearheaded international collaboration programs, strategically integrating established technologies with solutions from emerging tech companies to drive innovative product development. 
-        - Forged strategic partnerships in the high-growth XR sectors, leading to knowledge exchange, application enhancement, and pioneering new product development. 
-        - Directed experimental AI projects, steering the integration of optics and AI in close collaboration with the R&D team to fuel continuous innovation.
-
-    - title: Senior Application Engineer
-      institution: Instrument Systems, Konica Minolta (China) Investment Co., Ltd, Shanghai, China
-      year: 2017 - 2023
-      description:
-        - Provided comprehensive application support for advanced optical measurement solutions to key accounts including Apple, Samsung, and BOE, resolving complex technical issues and conducting customized training to significantly boost product adoption. 
-        - Orchestrated the development of new application features by collaborating with cross-functional teams, resulting in streamlined processes and enhanced functionality.  
-        - Pioneered internal projects to automate application service workflows, leveraging advanced tools to improve efficiency and drive continuous process improvements. 
-
-    - title: Research Engineer
-      institution: Saint-Gobain Research (Shanghai) Co., Ltd, Shanghai, China
-      year: 2014 - 2017
-      description:
-        - Managed the end-to-end product development lifecycle, from concept to launch, ensuring strict adherence to product specifications and project deadlines. 
-        - Led a team of four to manage two major product upgrade projects for a key group company, Saint-Gobain Abrasives (Suzhou) Co., which contributed 40% of their revenue in 2016.
-        - Directed multiple foundational research projects on Saint-Gobain products, successfully driving their adoption across diverse business sectors within the Asian market.
-
-- title: Volunteer
-  type: time_table
-  contents:
-    - title: Co-founder
-      institution: Saint-Gobain Research Shanghai Volunteering Club, Shanghai, China
-      year: 2015 - 2016
-      description:
-        - I co-founded the Saint-Gobain Research Shanghai Volunteering Club, partnering with local NGOs and Saint-Gobain’s HR and CSR teams to organize weekend educational programs for migrant children in Shanghai. By mobilizing Saint-Gobain employees as volunteer teachers, we provided structured classes to support underserved youth.
-
-    - title: Project Coordinator
-      institution: LEAD Sunshine (NGO) , Bejing, China
-      year: 2011 - 2014
-      description:
-        - I designed and delivered weekend educational programs for migrant children in non-government schools, teaching English, Traditional Chinese Culture, Mathematics, Astronomy, and hands-on science experiments. I tailored the curriculum to students' needs, coordinated volunteer efforts, and ensured impactful learning experiences despite limited resources.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2025
-      items:
-        - title: Excellence Awards on 2025 Konica Minolta Group Global Improvement Competition
-          contents:
-            - CAVE (CALIBRATION VIA AUGMENTED VISUAL ENVIRONMENT)
-    - year: 2023
-      items:
-        - title: Two Excellence Awards on 2023 Konica Minolta Group Global Improvement Competition
-          contents:
-            - Local AI Enhanced Knowledge-Base Support Web System
-            - End-to-End Spectrometer Automatic Calibration
-    - year: 2020 -2024
-      items:
-        - Chinese Government Scholarship (Tongji University)
-    - year: 2011 -2014
-      items:
-        - Tsinghua - Beijing Scholarship
-    - year: 2006 -2010
-      items:
-        - University of Toronto Scholarship
-
-- title: Languages
+- title: Professional Affiliations & Industry Leadership
   type: nested_list
   contents:
-    - title: Chinese (Mandarin) - Native speaker
-    - title: English - Fluent
+    - title: Society for Information Display (SID)
+      items:
+        - "Expert & Technical Committee Member, International Committee for Display Metrology (ICDM) (Subcommittees: <em>Near-Eye-Display</em> and <em>Temporal Measurements</em>)."
+        - Technical Committee Member, SID China Chapter.
+    - title: Institute of Electrical and Electronics Engineers (IEEE)
+      items:
+        - Member.
+
+- title: Additional Information
+  type: map
+  contents:
+    - name: Languages
+      value: English (Fluent), Mandarin (Native)
+    - name: Citizenship
+      value: Canadian
+    - name: Portfolio & Code
+      value: https://tzhu64.github.io
