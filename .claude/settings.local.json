@@ -23,7 +23,15 @@
       "Bash(node screenshot.js)",
       "Bash(gem install *)",
       "Bash(gem env *)",
-      "Bash(gh auth *)"
+      "Bash(gh auth *)",
+      "Bash(rm -f assets/.DS_Store assets/img/.DS_Store)",
+      "Bash(rm -f assets/img/PhD/*)",
+      "Bash(rmdir assets/img/PhD)",
+      "Bash(rm -f \"assets/img/Instrument Systems/LED.jpg\" \"assets/img/Instrument Systems/NED.jpg\" \"assets/img/Instrument Systems/Rapid Testing of µLEDs and Microdisplays on Wafer_1.jpg\" \"assets/img/Instrument Systems/Rapid Testing of µLEDs and Microdisplays on Wafer_2.jpg\" \"assets/pdf/Instrument Systems/Rapid Testing of µLEDs and Microdisplays on Wafer.pdf\")",
+      "Bash(rbenv versions *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git remote *)"
     ]
   }
 }
