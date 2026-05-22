@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Cross-Disciplinary AI & Optical Architect | XR Innovator</strong>
+subtitle: <strong>XR Systems Specialist & AI Researcher</strong>
 
 profile:
   align: right
@@ -19,20 +19,20 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-My work focuses on the intersection of AI and optics, with the core mission of building the next generation of human-computer interaction. I believe XR, and AR in particular, is the ultimate platform to overcome current AI bottlenecks, creating the ideal architecture for the next generation of context-aware intelligent collaborative partners.
+I work at the intersection of deep learning and hardware engineering, developing advanced display testing platforms for next-generation XR systems. My core mission is to establish absolute spectral metrology as the foundation for AI-driven AR optical correction — pushing waveguide-based near-eye displays toward the color accuracy and visual fidelity that immersive experiences demand.
 
 #### What I Do
 
-As an Application Manager at Konica Minolta (Instrument Systems Division), I lead the technological fusion of AI and optical metrology. My daily work is dedicated to pioneering solutions for next-generation spatial computing devices by bridging cutting-edge deep learning theory with physical hardware constraints.
+As Technical Manager at Konica Minolta (Instrument Systems Division), I lead a Shanghai-based XR optical laboratory built from the ground up, architected around a unified evaluation platform integrating imaging colorimeters, spectroradiometers, and goniophotometric systems.
 
-- **XR Metrology Architecture**: I spearhead AI-driven architectures to accelerate hardware testing and validation for spatial computing devices.
-- **Enterprise Solutions**: I have spent nearly a decade defining and deploying high-precision optical measurement frameworks for global tech leaders. This includes providing application solutions for giants like Apple, Samsung, and BOE.
-- **Global Standard Setting**: I actively define global spatial and temporal performance standards for the XR industry. I serve as an appointed Expert across dual International Committee for Display Metrology (ICDM) subcommittees, specifically Near-Eye-Display and Temporal Measurements.
+- **XR Lab & Research**: I established the division's first XR optical lab in Shanghai and built the local engineering team. My research agenda targets waveguide spectral artifacts, see-through color accuracy, and the metrological barriers limiting AR optical quality — producing 3 first-author papers in the first year.
+- **Industry Standards**: I serve as an appointed Expert on SID ICDM subcommittees (Near-Eye-Display and Temporal Measurements), shaping international XR display standards. I authored the _XR Optical Measurement Handbook_ (2026, ISBN 978-7-89569-660-0) to promote standardized measurement practices across the industry.
+- **Enterprise Metrology**: Over nearly a decade, I have defined and deployed high-precision optical measurement frameworks for tier-1 device makers including Apple, Samsung, BOE, and Huawei — spanning SDK integration, production deployment, and technical training.
 
 #### My Journey: From Hardware to Algorithms
 
-My academic and professional journey is defined by cross-disciplinary innovation, allowing me to directly apply advanced theory to real-world industrial challenges.
+My path is defined by cross-disciplinary progression — applying advanced theory directly to real-world industrial challenges.
 
-- **Foundations in Mechanical Engineering**: My academic journey began in hardware, earning my B.S. from the University of Toronto and my M.S. from Tsinghua University.
-- **The Pivot to AI**: Years of industrial practice revealed the revolutionary potential of AI to solve traditional engineering bottlenecks. This drove me to pursue and obtain a Ph.D. in AI (Software Engineering) from Tongji University.
-- **A Unique Perspective**: This dual background gives me a rare vantage point spanning from physical materials and optics to complex AI algorithms.
+- **Foundations in Mechanical Engineering**: I earned my B.S. from the University of Toronto and M.S. from Tsinghua University, grounding me in physical hardware and materials.
+- **The Pivot to AI**: Years of industrial R&D — first at Saint-Gobain, then at Konica Minolta — revealed the potential of AI to break through traditional engineering bottlenecks. This drove me to pursue a full-time Ph.D. in Software Engineering (AI) at Tongji University, completed alongside my industry role.
+- **Where I Stand Now**: This dual background — spanning physical optics, materials science, and deep learning — gives me a rare vantage point for tackling the hardest problems in XR display metrology.

@@ -9,43 +9,64 @@
       value: tzhu64@outlook.com
     - name: Phone
       value: +86 18217600938
+    - name: LinkedIn
+      value: linkedin.com/in/tianxingzhu
     - name: Portfolio
       value: https://tzhu64.github.io
 
 - title: Professional Summary
   type: list
   contents:
-    - "<b>Cross-Disciplinary Architect:</b> Ph.D. in AI with a strong foundation in Mechanical Engineering (M.S., B.S.). Bridges cutting-edge deep learning theory with physical hardware constraints to solve complex industrial bottlenecks."
-    - "<b>XR & AI Innovator:</b> Currently leading the algorithmic and optical fusion for next-generation XR metrology systems. Pioneering AI-driven architectures to accelerate hardware testing and validation for spatial computing devices."
-    - "<b>Optical Metrology Authority:</b> Nearly a decade defining and deploying high-precision optical measurement frameworks for global tech giants and leading display manufacturers, including Apple, Samsung, and BOE."
-    - "<b>Global Standard Setter:</b> Appointed Expert across dual International Committee for Display Metrology (ICDM) subcommittees (<em>Near-Eye-Display</em> and <em>Temporal Measurements</em>). Actively defining global spatial and temporal performance standards for the XR industry."
+    - 'XR Systems Specialist and AI Researcher with nearly a decade of experience developing advanced display testing platforms at the intersection of deep learning and hardware engineering. Led the establishment of Instrument Systems'' Shanghai XR laboratory from the ground up and built the engineering team to support advanced XR optical research and system applications. Serves as an appointed Expert on SID ICDM subcommittees, contributing to international XR display standards, and authored the "XR Optical Measurement Handbook" (2026). Seeking to apply this cross-disciplinary background to the development of next-generation XR systems and immersive user experiences.'
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Optical Metrology & Instrumentation
+      items:
+        - XR Optical Testing, Display Calibration & Characterization, Imaging Colorimetry, Spectroradiometry, Goniophotometry, microLED & Microdisplay Metrology, Instrument Systems Platforms (SpecWin, LumiSuite)
+    - title: AI & Computational Imaging
+      items:
+        - Deep Learning, Computer Vision, Hyperspectral Imaging, Spectral-Spatial Analysis, Image Fusion
+    - title: Programming & Tools
+      items:
+        - Python, PyTorch, C#, Docker, OpenClaw, Claude Code
 
 - title: Work Experience
   type: time_table
   contents:
-    - title: Technical Manager (Instrument Systems Division)
+    - title: Technical Manager, Instrument Systems
       institution: Konica Minolta (China) Investment Co., Ltd., Shanghai, China
-      year: 2023 – Present
+      year: 2025 – Present
       description:
-        - "<b>XR Metrology Architecture & Integration:</b> Spearheaded international technical collaborations, strategically integrating Instrument Systems' high-precision optical measurement technologies with emerging tech solutions to drive advanced testing product development."
-        - "<b>Strategic XR Partnerships:</b> Forged and led high-level technical partnerships within the high-growth spatial computing sector, driving knowledge exchange, application enhancement, and the pioneering of new XR testing workflows."
-        - "<b>Cross-Functional R&D Leadership:</b> Directed experimental R&D initiatives, steering the integration of complex software tools and advanced optics. Collaborated closely with core R&D teams to architect next-generation testing solutions and fuel continuous innovation."
+        - "Established the division's XR optical laboratory in Shanghai from the ground up and built the local engineering team, enabling rapid, localized responses to emerging market requests. Architected a unified evaluation platform for near-eye display metrology by integrating XR-specific imaging colorimeters, spectroradiometers, and goniophotometric systems."
+        - "Defined and executed an XR research agenda targeting waveguide spectral artifacts, see-through color accuracy, and related metrological barriers to AR optical quality, establishing absolute spectral metrology as the foundation for AI-driven AR optical correction and producing 3 first-author papers in the first year."
+        - 'Shapes global XR metrology standards as an appointed Expert on SID ICDM subcommittees (Near-Eye-Display and Temporal Measurements), and drives regional adoption through the SID China Technical Committee. Authored the "XR Optical Measurement Handbook" to promote standardized measurement practices across the industry.'
+        - "Forges strategic technical partnerships with tier-1 device makers and optical innovators, positioning the division's metrology within the XR device supply chain. Drives cross-border R&D coordination across global engineering teams, channeling regional market demands and emerging XR technology trends into product strategy."
 
-    - title: Senior Application Engineer (Instrument Systems Division)
+    - title: AI Development Lead & Application Manager, Instrument Systems
       institution: Konica Minolta (China) Investment Co., Ltd., Shanghai, China
-      year: 2017 – 2023
+      year: 2020 – 2024
       description:
-        - "<b>Enterprise Metrology Architecture:</b> Served as the principal technical authority providing comprehensive application support for Instrument Systems' advanced optical measurement solutions to global tech giants and leading display manufacturers (including Apple, Samsung, and BOE). Resolved complex technical bottlenecks and conducted customized training to significantly boost product adoption."
-        - "<b>Workflow Automation & Scaling:</b> Pioneered internal automation projects for application service workflows, utilizing advanced tools to eliminate manual bottlenecks, improve testing efficiency, and establish scalable operational standards."
-        - "<b>Feature Engineering & Lifecycle Delivery:</b> Orchestrated the end-to-end development of new optical measurement application features by collaborating seamlessly with cross-functional teams, resulting in streamlined processes and enhanced core hardware functionality."
+        - "Managed technical engagement for 20+ display manufacturers and integrators including Apple, Samsung, BOE, and Huawei, accelerating product adoption through tailored SDK integration, application development, production deployment, and technical training."
+        - "Deployed 12+ internal automation tools across China, Vietnam, and Singapore — including spectrometer calibration platforms, certification generators, RMA trackers, recipe processors, and image analysis applications — streamlining operations across the division's Asian facilities."
+        - "Pioneered the division's AI adoption: deployed a locally hosted RAG-powered LLM knowledge base with multi-language support that significantly reduced cross-team response times; launched AI-based Mura detection models for rapid optical defect classification; and instituted internal training programs on modern AI development paradigms."
+
+    - title: Senior Application Engineer, Instrument Systems
+      institution: Konica Minolta (China) Investment Co., Ltd., Shanghai, China
+      year: 2017 – 2019
+      description:
+        - "Boosted calibration throughput by 266% and reduced turnaround time by architecting an end-to-end automation platform that condensed 100+ manual operations into 3 clicks, consolidating 4+ applications and databases into a single workflow. Extended automation to certification with high-volume ISO-compliant processing, format conversion, and error detection, standardizing certification workflows across the region."
+        - "Established Shanghai as the division's first Asian Application Engineering hub, localizing calibration capabilities from the division headquarters and building the regional workflows, assets, and expertise for independent operations across China and Vietnam."
+        - "Owned technical engagement for China and Vietnam, spanning pre-sales consultation, application integration, software development support, remote diagnostics, and on-site deployment, while building customer self-sufficiency through technical training programs."
 
     - title: Research Engineer
       institution: Saint-Gobain Research (Shanghai) Co., Ltd., Shanghai, China
       year: 2014 – 2017
       description:
-        - "<b>End-to-End R&D Lifecycle Management:</b> Directed the complete product development lifecycle for novel hardware solutions, guiding projects from foundational concept and material research through to industrialization and successful commercial launch."
-        - "<b>Cross-Functional Leadership & Commercial Impact:</b> Led a specialized, four-person R&D team to execute two major physical product upgrade initiatives for a key group division (Saint-Gobain Abrasives). Engineered solutions that ultimately accounted for 40% of the target division's revenue in 2016."
-        - "<b>Foundational Material & Mechanical Research:</b> Spearheaded multiple foundational research projects, translating rigorous technical specifications into tangible product features that accelerated adoption across diverse business sectors within the Asian market."
+        - "Delivered solutions accounting for 40% of the target division's 2016 revenue by leading a 4-person R&D team through two major product upgrades for Saint-Gobain Abrasives."
+        - "Advanced novel product solutions through the full development pipeline, from concept and material research through prototyping and industrialization."
+        - "Localized global product specifications to Asian manufacturing requirements, working directly with regional customers to validate performance and accelerate adoption."
 
 - title: Education
   type: time_table
@@ -53,6 +74,8 @@
     - title: Ph.D. in Software Engineering (AI)
       institution: Tongji University, Shanghai, China
       year: 2020 – 2025
+      description:
+        - "Full-time Ph.D. completed alongside industry role at Konica Minolta."
 
     - title: M.S. in Mechanical Engineering
       institution: Tsinghua University, Beijing, China
@@ -62,12 +85,29 @@
       institution: University of Toronto, Toronto, Canada
       year: 2006 – 2010
 
+- title: Selected Publications
+  type: nested_list
+  contents:
+    - title: "Book"
+      items:
+        - '"XR Optical Measurement Handbook" (2026, ISBN: 978-7-89569-660-0)'
+    - title: "XR Metrology"
+      items:
+        - '"Gaze vs. View: A Framework for Correlating Dynamic and Static Measurements in AR Optics" — International Conference on Display Technology (ICDT) 2026'
+        - '"Colorimetric Characterization of See-Through Near-Eye Displays" — ICDT 2026'
+        - '"The Impact of Waveguide Spectral Filtering on AR Color Fidelity" — ICDT 2026'
+        - '"Measurement of Near-Eye Display Using Goniophotometer and Imaging Light Measuring Device" — ICDT 2025'
+    - title: "AI & Computational Imaging"
+      items:
+        - '"Hierarchical Spectral–Spatial Transformer for Hyperspectral and Multispectral Image Fusion" — <em>Remote Sensing</em>, 2024'
+        - '"An Adaptive Atrous Spatial Pyramid Pooling Network for Hyperspectral Classification" — <em>Electronics</em>, 2023'
+
 - title: Professional Affiliations & Industry Leadership
   type: nested_list
   contents:
     - title: Society for Information Display (SID)
       items:
-        - "Expert & Technical Committee Member, International Committee for Display Metrology (ICDM) (Subcommittees: <em>Near-Eye-Display</em> and <em>Temporal Measurements</em>)."
+        - "Expert & Technical Committee Member, ICDM Near-Eye-Display and Temporal Measurements subcommittees."
         - Technical Committee Member, SID China Chapter.
     - title: Institute of Electrical and Electronics Engineers (IEEE)
       items:
@@ -80,5 +120,5 @@
       value: English (Fluent), Mandarin (Native)
     - name: Citizenship
       value: Canadian
-    - name: Portfolio & Code
+    - name: Portfolio
       value: https://tzhu64.github.io
