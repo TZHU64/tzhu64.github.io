@@ -19,7 +19,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I work at the intersection of deep learning and hardware engineering, developing advanced display testing platforms for next-generation XR systems. My core mission is to establish absolute spectral metrology as the foundation for AI-driven AR optical correction — pushing waveguide-based near-eye displays toward the color accuracy and visual fidelity that immersive experiences demand.
+I work at the intersection of deep learning and hardware engineering, developing advanced display testing platforms for next-generation XR systems. With nearly 10 years of experience in XR optical metrology, I combine optics, AI, and international standards expertise to advance how near-eye displays are measured, calibrated, and evaluated.
 
 #### What I Do
 
@@ -27,7 +27,7 @@ As Technical Manager at Konica Minolta (Instrument Systems Division), I lead a S
 
 - **XR Lab & Research**: I established the division's first XR optical lab in Shanghai and built the local engineering team. My research agenda targets waveguide spectral artifacts, see-through color accuracy, and the metrological barriers limiting AR optical quality — producing 3 first-author papers in the first year.
 - **Industry Standards**: I serve as an appointed Expert on SID ICDM subcommittees (Near-Eye-Display and Temporal Measurements), shaping international XR display standards. I authored the _XR Optical Measurement Handbook_ (2026, ISBN 978-7-89569-660-0) to promote standardized measurement practices across the industry.
-- **Enterprise Metrology**: Over nearly a decade, I have defined and deployed high-precision optical measurement frameworks for tier-1 device makers including Apple, Samsung, BOE, and Huawei — spanning SDK integration, production deployment, and technical training.
+- **Enterprise Metrology**: Over nearly a decade, I have defined and deployed high-precision optical measurement frameworks for tier-1 device makers including Apple, Samsung, and BOE — spanning SDK integration, production deployment, and technical training.
 
 #### My Journey: From Hardware to Algorithms
 
