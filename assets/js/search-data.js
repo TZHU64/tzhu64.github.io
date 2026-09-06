@@ -61,6 +61,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-honored-to-represent-instrument-systems-at-the-2026-international-conference-on-display-technology-icdt-2026-where-i-presented-our-three-recently-published-papers-advancing-ar-optics-and-near-eye-display-measurement-our-presented-research-includes-gaze-vs-view-a-framework-for-correlating-dynamic-and-static-measurements-in-ar-optics-colorimetric-characterization-of-see-through-near-eye-displays-and-the-impact-of-waveguide-spectral-filtering-on-ar-color-fidelity",
           title: 'I was honored to represent Instrument Systems at the 2026 International Conference on...',
           description: "",
+          section: "News",},{id: "news-i-was-honored-to-be-invited-to-speak-at-the-2026-sid-display-week-review-workshop-in-qingdao-on-august-31-where-i-presented-advances-in-xr-visual-perception-quality-and-evaluation-my-talk-reviewed-advances-highlighted-at-display-week-2026-and-shared-insights-from-my-own-xr-research-including-my-understanding-of-how-optical-performance-human-visual-perception-and-real-world-viewing-conditions-shape-xr-visual-quality-and-its-evaluation",
+          title: 'I was honored to be invited to speak at the 2026 SID Display...',
+          description: "",
+          section: "News",},{id: "news-i-am-honored-to-represent-instrument-systems-at-epic-techwatch-at-cioe-2026-in-shenzhen-on-september-9-where-i-will-present-spectral-trade-offs-in-diffractive-ar-waveguides-sharing-our-research-on-ar-waveguide-optics-with-the-photonics-community",
+          title: 'I am honored to represent Instrument Systems at EPIC TechWatch at CIOE 2026...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
