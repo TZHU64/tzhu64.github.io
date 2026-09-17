@@ -13,20 +13,20 @@
 - title: Professional Profile
   type: list
   contents:
-    - "Engineer and researcher with industrial R&amp;D experience since 2014, working at the intersection of XR optics, human visual perception, and computational imaging. Focused on system-level evaluation and technology development for XR/AR glasses as wearable interfaces for AI. Built Instrument Systems' Shanghai XR laboratory and established the local engineering team. Leads research in collaboration with global R&amp;D teams and industry partners. Lead author of the <em>XR Optical Testing Handbook</em> (2026), voting Expert Member of SID ICDM, and Technical Committee Member of SID China. Holds a PhD in software engineering with a focus on AI."
+    - "Engineer and researcher with industrial R&amp;D experience since 2014, working at the intersection of XR optics, human visual perception, and computational imaging. Focused on system-level evaluation and technology development for XR/AR glasses as wearable interfaces for AI. Built Instrument Systems' Shanghai XR laboratory and established the local engineering team. Leads research in collaboration with global R&amp;D teams and industry partners. Lead author of the <em>XR Optical Testing Handbook</em> (2026), Technical Committee Member of the Society for Information Display (SID) China, and Voting Expert Member of SID ICDM. Holds a PhD in software engineering with a focus on AI."
 
 - title: Professional Experience
   type: time_table
   contents:
     - title: "Technical Manager"
-      institution: "Instrument Systems — Konica Minolta Group, Shanghai, China"
+      institution: "Instrument Systems, Konica Minolta Group, Shanghai, China"
       year: "2025–Present"
       description:
         - "Lead XR research and technical development in Shanghai, setting research priorities and working with the local engineering team, global R&amp;D, device makers, and optical suppliers to define evaluation methods and product requirements."
         - "Developed an AI+AR systems framework linking use cases for AI glasses, optical constraints, and visual performance to measurement and data requirements. Used the framework to guide platform planning, inform management decisions, and train global application and sales teams."
         - "Develop methods to evaluate AR visual quality under varying ambient lighting and viewing conditions, addressing waveguide spectral filtering, the interaction between display output and ambient light, and changes in viewing geometry caused by eye rotation. Published three papers as first author at ICDT 2026."
     - title: "Application Manager"
-      institution: "Instrument Systems — Konica Minolta Group, Shanghai, China"
+      institution: "Instrument Systems, Konica Minolta Group, Shanghai, China"
       year: "2020–2024"
       description:
         - "Built the Shanghai XR optical laboratory in 2024, integrating imaging colorimetry, spectroradiometry, and angular measurements to enable local near-eye display research and customer evaluations."
@@ -34,7 +34,7 @@
         - "Developed and deployed 12+ engineering software tools across China, Vietnam, and Singapore to automate calibration, certificate generation, service tracking, and test-recipe workflows."
         - "Introduced a locally hosted multilingual LLM knowledge base and AI-based display mura detection models, supported by internal training to encourage AI adoption across the division."
     - title: "Senior Application Engineer"
-      institution: "Instrument Systems — Konica Minolta Group, Shanghai, China"
+      institution: "Instrument Systems, Konica Minolta Group, Shanghai, China"
       year: "2017–2019"
       description:
         - "Built an end-to-end spectrometer calibration platform that increased daily throughput by 167% and condensed 100+ manual operations into a 3-step workflow; standardized calibration and certificate-generation workflows across China and Vietnam."
@@ -49,22 +49,22 @@
 - title: Standards and Professional Service
   type: time_table
   contents:
+    - title: "Technical Committee Member"
+      institution: "Society for Information Display (SID) China"
+      year: "2025–Present"
+      description:
+        - "Serve on the VR &amp; AR and Display Measurement groups."
     - title: "Voting Expert Member"
       institution: "SID International Committee for Display Metrology (ICDM)"
       year: "2025–Present"
       description:
         - "Contribute to international display metrology methods and standards through the Near-Eye Display and Temporal Measurements subcommittees."
-    - title: "Technical Committee Member"
-      institution: "SID China"
-      year: "2025–Present"
-      description:
-        - "Serve on the VR &amp; AR and Display Measurement groups."
 
 - title: Selected Invited Talks
   type: list
   contents:
     - "10+ conference and industry presentations since 2023."
-    - "<strong>EPIC TechWatch at CIOE 2026</strong><br>Shenzhen | September 9, 2026<br>“Spectral Trade-Offs in Diffractive AR Waveguides.”"
+    - "<strong>European Photonics Industry Consortium (EPIC) TechWatch at China International Optoelectronic Exposition (CIOE) 2026</strong><br>Shenzhen | September 9, 2026<br>“Spectral Trade-Offs in Diffractive AR Waveguides.”"
     - "<strong>SID Display Week Review Workshop</strong><br>Qingdao | August 31, 2026<br>“Advances in XR Visual Perception Quality and Evaluation.”"
     - "<strong>International Conference on Display Technology (ICDT)</strong><br>2025–2026<br>Delivered three presentations on AR visual quality and measurement in 2026 and one on near-eye display measurement in 2025."
 
