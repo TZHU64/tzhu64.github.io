@@ -1,103 +1,96 @@
+---
 - title: Basic Information
   type: map
   contents:
-    - name: "Full Name"
-      value: "Tianxing Zhu"
-    - name: "Location"
-      value: "Shanghai, China"
-    - name: "Email"
-      value: "tzhu64@outlook.com"
-    - name: "Phone"
-      value: "+86 18217600938"
-
+  - name: Full Name
+    value: Tianxing Zhu, PhD
+  - name: Location
+    value: Shanghai, China
+  - name: Email
+    value: <a href="mailto:tzhu64@outlook.com">tzhu64@outlook.com</a>
+  - name: Phone
+    value: <a href="tel:+8618217600938">+86 18217600938</a>
+  - name: Website
+    value: <a href="https://tzhu64.github.io">tzhu64.github.io</a>
 - title: Professional Profile
   type: list
   contents:
-    - "Engineer and researcher with industrial R&amp;D experience since 2014, working at the intersection of XR optics, human visual perception, and computational imaging. Focused on system-level evaluation and technology development for XR/AR glasses as wearable interfaces for AI. Built Instrument Systems' Shanghai XR laboratory and established the local engineering team. Leads research in collaboration with global R&amp;D teams and industry partners. Lead author of the <em>XR Optical Testing Handbook</em> (2026), Technical Committee Member of the Society for Information Display (SID) China, and Voting Expert Member of SID ICDM. Holds a PhD in software engineering with a focus on AI."
-
+  - 'Technical leader with 12+ years of R&amp;D and engineering experience, including 6+ years of team leadership, now focused on XR optics, human visual perception, and applied AI. Built Instrument Systems’ Shanghai XR optical laboratory and engineering team, and now lead XR R&amp;D in China: defining near-eye display measurement methods, translating them into production tests, and contributing to international standards development. Led technical engagements with 20+ device makers and display manufacturers, including Apple, Samsung, and BOE. Lead author of the <em>XR Optical Testing Handbook</em>, with 20+ peer-reviewed papers and 7+ invited XR talks.'
+- title: Technical Expertise
+  type: list
+  contents:
+  - "<strong>XR Systems &amp; Perception:</strong> Near-Eye Display Systems, Perceptual Image Quality Evaluation, Display Performance Optimization (Android XR, OpenCV)."
+  - "<strong>Agentic AI &amp; Autonomous Experimentation:</strong> Wearable XR+AI Systems, AI-Driven Optical Harnesses, Agent Orchestration, Multimodal AI Integration (Python, PyTorch)."
+  - "<strong>Optical Metrology &amp; Computational Imaging:</strong> Optical Characterization Systems, Optical &amp; Colorimetric Modeling, Display Calibration, Production Test &amp; Validation, Hyperspectral Imaging (C#, Optical Metrology &amp; Instrument Control Suites)."
 - title: Professional Experience
   type: time_table
   contents:
-    - title: "Technical Manager"
-      institution: "Instrument Systems, Konica Minolta Group, Shanghai, China"
-      year: "2025–Present"
-      description:
-        - "Lead XR research and technical development in Shanghai, setting research priorities and working with the local engineering team, global R&amp;D, device makers, and optical suppliers to define evaluation methods and product requirements."
-        - "Developed an AI+AR systems framework linking use cases for AI glasses, optical constraints, and visual performance to measurement and data requirements. Used the framework to guide platform planning, inform management decisions, and train global application and sales teams."
-        - "Develop methods to evaluate AR visual quality under varying ambient lighting and viewing conditions, addressing waveguide spectral filtering, the interaction between display output and ambient light, and changes in viewing geometry caused by eye rotation. Published three papers as first author at ICDT 2026."
-    - title: "Application Manager"
-      institution: "Instrument Systems, Konica Minolta Group, Shanghai, China"
-      year: "2020–2024"
-      description:
-        - "Built the Shanghai XR optical laboratory in 2024, integrating imaging colorimetry, spectroradiometry, and angular measurements to enable local near-eye display research and customer evaluations."
-        - "Led technical engagements with 20+ display manufacturers and system integrators, including Apple, Samsung, and BOE, spanning SDK integration, application development, production deployment, and training."
-        - "Developed and deployed 12+ engineering software tools across China, Vietnam, and Singapore to automate calibration, certificate generation, service tracking, and test-recipe workflows."
-        - "Introduced a locally hosted multilingual LLM knowledge base and AI-based display mura detection models, supported by internal training to encourage AI adoption across the division."
-    - title: "Senior Application Engineer"
-      institution: "Instrument Systems, Konica Minolta Group, Shanghai, China"
-      year: "2017–2019"
-      description:
-        - "Built an end-to-end spectrometer calibration platform that increased daily throughput by 167% and condensed 100+ manual operations into a 3-step workflow; standardized calibration and certificate-generation workflows across China and Vietnam."
-        - "Established regional application engineering and local calibration capabilities, supporting customers through technical consultation, software integration, diagnostics, deployment, and training."
-    - title: "Research Engineer"
-      institution: "Saint-Gobain Research Center, Shanghai, China"
-      year: "2014–2017"
-      description:
-        - "Led a four-person R&amp;D team through two product upgrades for Saint-Gobain Abrasives; the upgraded products accounted for 40% of the relevant business unit's 2016 revenue."
-        - "Advanced products from materials research and prototyping through validation and industrialization, adapting global specifications to manufacturing conditions and customer requirements in Asia."
-
+  - title: Technical Manager
+    institution: Instrument Systems, Konica Minolta Group, Shanghai, China
+    year: 2025–Present
+    description:
+    - "<strong>XR Technical Strategy &amp; Industry Collaboration:</strong> Lead XR technical research and development in China, defining strategic priorities and collaborating with global R&amp;D teams, device manufacturers, and optical suppliers to shape evaluation methodologies, technical roadmaps, and product requirements for next-generation near-eye display systems. Drive ongoing international standards development and serve as lead author of the <em>XR Optical Testing Handbook</em>."
+    - "<strong>XR Systems Architecture:</strong> Architected an application-driven XR systems framework translating smart-glasses use cases and human visual perception into optical specifications, measurement methodologies, and platform standards. Bridged dynamic eye movement with static lab metrics, resolved spatial alignment and optical distortion across virtual imagery, real-world scenes, and prescription lenses, and distilled complex lab characterizations into rapid production tests."
+    - "<strong>AI-Driven Optical Harness Platforms:</strong> Designed and developed a goal-driven, self-recursive hardware-in-the-loop (HIL) AI research platform integrating XR devices, optical instruments, and engineering software, where AI agents use physical feedback to evolve experimental methods, control software, and computational models toward defined research objectives."
+    - "<strong>Perceptual Evaluation &amp; Optical Optimization:</strong> Lead human-centric evaluation and optimization of see-through near-eye display quality under real-world viewing conditions. Proposed a shared-gamut color space and inverse rendering framework for additive AR, modeled spectral filtering and color prediction across diffractive and geometric waveguides, and optimized perceptual contrast and spatial uniformity across varying ambient light."
+  - title: Application Manager
+    institution: Instrument Systems, Konica Minolta Group, Shanghai, China
+    year: 2020–2024
+    description:
+    - "<strong>XR Laboratory &amp; Team Development:</strong> Founded Instrument Systems' Shanghai XR optical laboratory in 2024 and built the local engineering team, establishing full-field, spectral, and angular characterization capabilities for near-eye display evaluation and customer programs."
+    - "<strong>Optical Systems Integration:</strong> Led technical engagements with 20+ global device makers and display manufacturers, including Apple, Samsung, and BOE, translating complex optical measurement requirements into customized testing solutions, software integrations, and production-ready systems from proof of concept through deployment."
+    - "<strong>Optical Automation &amp; Applied AI:</strong> Delivered 12+ optical automation projects across China, Vietnam, and Singapore, streamlining instrument calibration, certificate generation, and testing workflows. Developed AI-based display mura detection and an AI-assisted knowledge system for technical troubleshooting and training."
+  - title: Senior Application Engineer
+    institution: Instrument Systems, Konica Minolta Group, Shanghai, China
+    year: 2017–2019
+    description:
+    - "<strong>Application Engineering:</strong> Established regional application engineering and local calibration capabilities, providing technical consultation, system integration, diagnostics, deployment, and training for optical measurement systems."
+    - "<strong>Calibration Process Automation:</strong> Developed an end-to-end spectrometer calibration platform, increasing daily throughput by 167% and reducing 100+ manual operations to a three-step workflow, standardizing calibration and certificate generation across China and Vietnam."
+  - title: Research Engineer
+    institution: Saint-Gobain Research Center, Shanghai, China
+    year: 2014–2017
+    description:
+    - "<strong>Product Upgrades:</strong> Delivered two major product-line upgrades for Saint-Gobain Abrasives through engineering development, validation, and industrialization, contributing 40% of the business unit's 2016 revenue."
+    - "<strong>Team Leadership:</strong> Led a four-person engineering team, guiding physics-based research and technical decision-making to balance product performance, global design specifications, Asian manufacturing capabilities, and customer requirements."
 - title: Standards and Professional Service
   type: time_table
   contents:
-    - title: "Technical Committee Member"
-      institution: "Society for Information Display (SID) China"
-      year: "2025–Present"
-      description:
-        - "Serve on the VR &amp; AR and Display Measurement groups."
-    - title: "Voting Expert Member"
-      institution: "SID International Committee for Display Metrology (ICDM)"
-      year: "2025–Present"
-      description:
-        - "Contribute to international display metrology methods and standards through the Near-Eye Display and Temporal Measurements subcommittees."
-
+  - title: Voting Expert Member
+    institution: International Committee for Display Metrology (ICDM)
+    year: 2025–Present
+    description:
+    - Contribute to international display metrology methods and standards through the Near-Eye Display and Temporal Measurements subcommittees.
+  - title: Technical Committee Member
+    institution: Society for Information Display (SID) China
+    year: 2025–Present
+    description:
+    - Serve on the VR &amp; AR and Display Measurement subcommittees.
 - title: Selected Invited Talks
   type: list
   contents:
-    - "10+ conference and industry presentations since 2023."
-    - "<strong>European Photonics Industry Consortium (EPIC) TechWatch at China International Optoelectronic Exposition (CIOE) 2026</strong><br>Shenzhen | September 9, 2026<br>“Spectral Trade-Offs in Diffractive AR Waveguides.”"
-    - "<strong>SID Display Week Review Workshop</strong><br>Qingdao | August 31, 2026<br>“Advances in XR Visual Perception Quality and Evaluation.”"
-    - "<strong>International Conference on Display Technology (ICDT)</strong><br>2025–2026<br>Delivered three presentations on AR visual quality and measurement in 2026 and one on near-eye display measurement in 2025."
-
-- title: Selected Publications
+  - Delivered 7+ invited XR presentations at international conferences and exhibitions since 2023.
+  - "<strong>EPIC TechWatch at China International Optoelectronic Exposition (CIOE 2026)</strong> | Shenzhen | September 9, 2026<br>“Spectral Trade-Offs in Diffractive AR Waveguides.”"
+  - "<strong>SID Symposium on New Display Technologies</strong> | Qingdao | August 31, 2026<br>“Advances in XR Visual Perception Quality and Evaluation.”"
+  - "<strong>International Conference on Display Technology (ICDT)</strong> | 2025–2026<br>Delivered four presentations on AR visual quality, optical metrology, and near-eye display evaluation."
+- title: Selected Publications & Research
   type: list
   contents:
-    - '20+ peer-reviewed papers. <a href="/publications/">Full publication list</a>.'
-    - "<strong>XR Optical Testing Handbook</strong><br>T. Zhu and M. Hillebrand | 2026 | ISBN 978-7-89569-660-0"
-    - "<strong>Gaze vs. View: A Framework for Correlating Dynamic and Static Measurements in AR Optics</strong><br>T. Zhu et al. | ICDT, 2026."
-    - "<strong>The Impact of Waveguide Spectral Filtering on AR Color Fidelity</strong><br>T. Zhu et al. | ICDT, 2026."
-    - "<strong>Colorimetric Characterization of See-Through Near-Eye Displays</strong><br>T. Zhu et al. | ICDT, 2026."
-    - "<strong>Hierarchical Spectral–Spatial Transformer for Hyperspectral and Multispectral Image Fusion</strong><br>T. Zhu et al. | <em>Remote Sensing</em> 16(22), 4127, 2024."
-    - "<strong>An Adaptive Atrous Spatial Pyramid Pooling Network for Hyperspectral Classification</strong><br>T. Zhu et al. | <em>Electronics</em> 12(24), 5013, 2023."
-
+  - '20+ peer-reviewed papers. Full publication list: <a href="https://tzhu64.github.io/publications">https://tzhu64.github.io/publications</a>'
+  - "<strong>XR Optical Testing Handbook</strong>  <br><strong>T. Zhu</strong> and M. Hillebrand | 2026 | ISBN: 978-7-89569-660-0"
+  - "<strong>Shared-Gamut Color Space and Inverse Rendering for Additive Optical See-Through Displays</strong>  <br><strong>T. Zhu</strong> et al. | Submitted to <em>SID Display Week</em>, 2027"
+  - "<strong>Goal-Driven Autonomous Optical Experimentation via a Self-Recursive Hardware–Software Harness</strong>  <br><strong>T. Zhu</strong> et al. | Submitted to <em>SID Display Week</em>, 2027"
+  - "<strong>Spatial Memory for AR Glasses: Hierarchical Visual Acquisition and Source-Linked Recall</strong>  <br><strong>T. Zhu</strong> and D. Huang | Submitted to <em>ICDT</em>, 2027"
+  - "<strong>Gaze vs. View: A Framework for Correlating Dynamic and Static Measurements in AR Optics</strong>  <br><strong>T. Zhu</strong> et al. | <em>ICDT</em>, 2026"
+  - "<strong>The Impact of Waveguide Spectral Filtering on AR Color Fidelity</strong>  <br><strong>T. Zhu</strong> et al. | <em>ICDT</em>, 2026"
 - title: Education
   type: time_table
   contents:
-    - title: "PhD, Software Engineering (AI)"
-      institution: "Tongji University"
-      year: "2020–2025"
-      description:
-        - "Completed while employed at Instrument Systems."
-    - title: "MS, Mechanical Engineering"
-      institution: "Tsinghua University"
-      year: "2011–2014"
-    - title: "BS, Mechanical Engineering"
-      institution: "University of Toronto"
-      year: "2006–2010"
-
-- title: Additional Information
-  type: map
-  contents:
-    - name: "Languages"
-      value: "Mandarin Chinese (native); English (fluent)"
-    - name: "Portfolio"
-      value: '<a href="https://tzhu64.github.io">https://tzhu64.github.io</a>'
+  - title: PhD, Software Engineering (AI)
+    institution: Tongji University
+    year: 2020–2025
+  - title: MS, Mechanical Engineering
+    institution: Tsinghua University
+    year: 2011–2014
+  - title: BS, Mechanical Engineering
+    institution: University of Toronto
+    year: 2006–2010

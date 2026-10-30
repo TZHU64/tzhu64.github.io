@@ -24,6 +24,16 @@ layout: default
       {% if page.description %}
         <p class="post-description">{{ page.description }}</p>
       {% endif %}
+      {% if page.resume_downloads %}
+        <div class="d-flex flex-wrap" aria-label="Résumé downloads">
+          {% for resume in page.resume_downloads %}
+            <a class="btn btn-outline-primary mr-2 mb-2" href="{{ resume.file | prepend: 'assets/pdf/' | relative_url }}" download>
+              <i class="fa-solid fa-download mr-1" aria-hidden="true"></i>
+              {{ resume.label | escape }}
+            </a>
+          {% endfor %}
+        </div>
+      {% endif %}
     </header>
 
     <article>
@@ -74,6 +84,16 @@ layout: default
       </h1>
       {% if page.description %}
         <p class="post-description">{{ page.description }}</p>
+      {% endif %}
+      {% if page.resume_downloads %}
+        <div class="d-flex flex-wrap" aria-label="Résumé downloads">
+          {% for resume in page.resume_downloads %}
+            <a class="btn btn-outline-primary mr-2 mb-2" href="{{ resume.file | prepend: 'assets/pdf/' | relative_url }}" download>
+              <i class="fa-solid fa-download mr-1" aria-hidden="true"></i>
+              {{ resume.label | escape }}
+            </a>
+          {% endfor %}
+        </div>
       {% endif %}
     </header>
 
